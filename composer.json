@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/formbuilder",
+    "name": "boing6002/formbuilder",
     "description": "Form builder for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -19,10 +19,10 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/framework": "5.7.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/select": "2.8.*",
-        "laravel-enso/vuecomponents": "2.7.*"
+        "laravel/framework": "dev-master",
+        "boing6002/helpers": "dev-master",
+        "boing6002/select": "dev-master",
+        "boing6002/vuecomponents": "dev-master"
     },
     "autoload": {
         "psr-4": {
