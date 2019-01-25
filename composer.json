@@ -19,7 +19,6 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/framework": "dev-master",
         "boing6002/helpers": "dev-master",
         "boing6002/select": "dev-master",
         "boing6002/vuecomponents": "dev-master"
